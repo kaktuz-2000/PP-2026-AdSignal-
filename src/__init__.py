@@ -1,0 +1,1 @@
+"""Synthetic ad analytics and recommendation prototype."""
